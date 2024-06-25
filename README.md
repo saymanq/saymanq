@@ -6,7 +6,7 @@ I am a second-year computer science student at the University of Alberta, passio
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) & [tensorflow](https://www.tensorflow.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
+- 💻 Building Full-Stack Web Applications with a functional backend and database integrations
 
 Check out my [coding portfolio!](https://www.google.com)
 
