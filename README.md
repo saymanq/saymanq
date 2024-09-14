@@ -6,7 +6,7 @@ I am a second-year computer science student at the University of Alberta, passio
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) & [tensorflow](https://www.tensorflow.org/)
-- 💻 Building Full-Stack Web Applications with a functional backend and database integrations
+- 💻 Building Full-Stack AI Web Applications with a functional backend and database integrations
 
 Check out my [coding portfolio!](https://sayman.me)
 
