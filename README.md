@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Syed Ayman</h1>
 
 # 💫 About Me:
-I am a second-year computer science student at the University of Alberta, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a computer science student at the University of Alberta, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
