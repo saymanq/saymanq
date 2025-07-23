@@ -8,7 +8,7 @@ I am a computer science student at the University of Alberta, passionate about e
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) & [tensorflow](https://www.tensorflow.org/)
 - 💻 Building Full-Stack AI Web Applications with a functional backend and database integrations
 
-Check out my [coding portfolio!](https://sayman.me)
+Check out my [coding portfolio!](https://syedq.com)
 
 ## 🌐 Connect with me:
 Linkedin: [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aymanquadri/)
