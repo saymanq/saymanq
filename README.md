@@ -19,10 +19,10 @@ CS @ University of Alberta · Builder of useful things
 ---
 
 ## 🧪 What I’m building
-- **StudySync** – AI-powered intelligent study platform for students with memory and agents.  
-  🔗 https://studysync.syedq.com
+- **NebulaStudy** – AI-powered intelligent study platform for students with memory and agents.  
+  🔗 https://www.nebulastudy.com
 - **TutorConnect** – Full-stack tutoring marketplace with Stripe Connect, Supabase RLS, realtime chat, and timezone intelligence.  
-  🔗 https://tutorconnect.syedq.com
+  🔗 https://www.tutorconnectedu.com
 
 ---
 
