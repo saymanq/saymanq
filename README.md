@@ -21,8 +21,6 @@ CS @ University of Alberta · Builder of useful things
 ## 🧪 What I’m building
 - **NebulaStudy** – AI-powered intelligent study platform for students with memory and agents.  
   🔗 https://www.nebulastudy.com
-- **TutorConnect** – Full-stack tutoring marketplace with Stripe Connect, Supabase RLS, realtime chat, and timezone intelligence.  
-  🔗 https://www.tutorconnectedu.com
 
 ---
 
